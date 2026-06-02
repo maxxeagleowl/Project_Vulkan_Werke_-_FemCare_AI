@@ -39,7 +39,7 @@ The platform uses traditional software for data integration, storage, security, 
 ## High Level Overview
 
 ```text
-SAP
+ERP
 MES
 QMS
 Machine Data
@@ -154,7 +154,7 @@ Examples:
 
 * Which system contains downtime data?
 * How is OEE calculated?
-* What information is required for ISO reporting?
+* What information is required for reporting?
 
 Business Value:
 
@@ -192,7 +192,7 @@ Automate report preparation.
 
 Examples:
 
-* ISO 9001 reports
+* Manufacturing reports
 * Quality reports
 * Management summaries
 * Audit preparation packages
